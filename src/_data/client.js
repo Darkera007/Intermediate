@@ -4,7 +4,7 @@ module.exports = {
     "phoneForTel": "555-779-4407",
     "phoneFormatted": "(555) 779-4407",
     "address": {
-        "lineOne": "First Address Line",
+        "lineOne": "A new ad First Address Line",
         "lineTwo": "Second Address Line",
         "city": "Denver",
         "state": "CO",
